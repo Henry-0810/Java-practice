@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/UserDefinedMathods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Validation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Validation/Validation" />
     </content>
     <orderEntry type="inheritedJdk" />
